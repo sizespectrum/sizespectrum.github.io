@@ -1,0 +1,12 @@
+name: "sizespectrum"
+output_dir: "."
+output:
+  html_document:
+    theme: cerulean
+navbar:
+  title: "Size spectrum modelling"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "mizer"
+      href: mizer/
