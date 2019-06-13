@@ -1,2 +1,1 @@
-# sizespectrum.github.io
-Sizespectrum modelling
+# Sizespectrum modelling
