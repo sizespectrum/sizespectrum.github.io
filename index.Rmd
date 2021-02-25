@@ -3,3 +3,11 @@ title: "Size spectrum modelling"
 output: html_document
 ---
 
+## SPECTRE (Size sPECTrum REading group) 
+
+The aim of SPECTRE is to bring the size spectrum community closer by providing a
+platform where colleagues from different regions can meet and talk about
+applying the size spectrum theory in aquatic communities. Starting in February
+2021, the group will meet virtually once every two months to discuss a paper or
+a general question relevant to the topic. The meetings are not obligatory, and
+the participants can join the ones they find interesting.
